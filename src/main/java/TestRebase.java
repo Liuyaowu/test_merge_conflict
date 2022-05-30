@@ -6,5 +6,6 @@
 public class TestRebase {
     public static void main(String[] args) {
         System.out.println("------master------");
+        System.out.println("------branch 1 task1------");
     }
 }
